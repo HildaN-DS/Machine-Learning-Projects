@@ -1,2 +1,5 @@
 # Machine-Learning-Projects
-A curated collection of machine learning projects showcasing data preprocessing, model development, evaluation, and deployment. Projects cover supervised and unsupervised learning using real-world datasets and best practices in the ML pipeline.
+Welcome to my Machine Learning Projects repository!
+
+Here you'll find a variety of projects that demonstrate practical applications of machine learning techniques — from data exploration and feature engineering to model selection, tuning, and performance evaluation.
+Each project includes clear documentation, code, and insights.
