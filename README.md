@@ -14,7 +14,7 @@ A machine learning project that builds and evaluates classification models to pr
 
 The project covers data preprocessing, exploratory data analysis, model training, and evaluation. It includes feature scaling, hyperparameter tuning, and performance assessment using accuracy and confusion matrices. A K-Nearest Neighbors classifier was among the models explored in the first version.
 
-In the updated version LLogistic Regression, Random Forest and Gradient Boosting were trained and evaluated with the best performing being Logistic Regression at 93% Recall. 
+In the updated version Logistic Regression, Random Forest and Gradient Boosting were trained and evaluated with the best performing being Logistic Regression at 93% Recall. 
 
 📔**Libraries Used**
 - Pandas and NumPy – for data handling and numerical operations
